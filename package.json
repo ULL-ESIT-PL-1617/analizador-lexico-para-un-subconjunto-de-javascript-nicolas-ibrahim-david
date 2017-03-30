@@ -1,0 +1,16 @@
+{
+  "name": "Analizador-Lexico-Subconjunto",
+  "version": "1.0.0",
+  "description": "* [Descripción de la práctica](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/practicas/practicaanalisislexicotdop.html#recursos)\r * [Repositorio Github](https://github.com/ULL-ESIT-PL-1617/analizador-lexico-para-un-subconjunto-de-javascript-nicolas-ibrahim-david)\r * [Repositorio Heroku]( https://git.heroku.com/stark-hollows-62974.git)\r * [Despliegue Heroku](https://stark-hollows-62974.herokuapp.com/)\r * [Libro en Gitbook](https://alu0100898293.gitbooks.io/regexp-ibrahim-david-nicolas/content/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  }
+}
